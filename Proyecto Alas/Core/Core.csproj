@@ -4,4 +4,16 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Abastract\" />
+    <Folder Include="Concrete\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Infraestructure\Filters\" />
+    <Folder Include="Infraestructure\Helpers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj" />
+  </ItemGroup>
+
 </Project>
