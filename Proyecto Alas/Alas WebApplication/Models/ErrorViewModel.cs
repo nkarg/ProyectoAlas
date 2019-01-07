@@ -1,6 +1,6 @@
 using System;
 
-namespace Alas_WebApplication.Models
+namespace AlasWebApplication.Models
 {
     public class ErrorViewModel
     {

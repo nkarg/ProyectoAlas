@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Alas_WebApplication.Models;
+using AlasWebApplication.Models;
 
-namespace Alas_WebApplication.Controllers
+namespace AlasWebApplication.Controllers
 {
     public class HomeController : Controller
     {

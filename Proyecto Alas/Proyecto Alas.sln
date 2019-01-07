@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alas WebApplication", "Alas WebApplication\Alas WebApplication.csproj", "{E092D56B-3633-4EAD-BADE-601C65872A26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlasWebApplication", "Alas WebApplication\AlasWebApplication.csproj", "{E092D56B-3633-4EAD-BADE-601C65872A26}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{FF41E2E8-EE7F-4101-B8A4-84D62FC27D8D}"
 EndProject

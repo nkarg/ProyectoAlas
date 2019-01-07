@@ -4,7 +4,7 @@ using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace Alas_WebApplication.Data
+namespace AlasWebApplication.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

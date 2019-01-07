@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace Alas_WebApplication.Data.Migrations
+namespace AlasWebApplication.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {
